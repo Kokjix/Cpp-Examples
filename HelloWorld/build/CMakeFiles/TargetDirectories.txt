@@ -1,0 +1,3 @@
+/home/baran/Dev/HelloWorld/build/CMakeFiles/rebuild_cache.dir
+/home/baran/Dev/HelloWorld/build/CMakeFiles/Main.dir
+/home/baran/Dev/HelloWorld/build/CMakeFiles/edit_cache.dir

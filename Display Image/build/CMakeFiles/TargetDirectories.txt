@@ -1,0 +1,3 @@
+/home/baran/Dev/Display Image/build/CMakeFiles/rebuild_cache.dir
+/home/baran/Dev/Display Image/build/CMakeFiles/DisplayImage.dir
+/home/baran/Dev/Display Image/build/CMakeFiles/edit_cache.dir
