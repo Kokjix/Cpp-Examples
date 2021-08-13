@@ -18,6 +18,7 @@ int main(int argc, char const *argv[])
         return -1;
     }
     std::cout << "Capturing the image..." << std::endl;
+    std::cout << "Image shown..." << std::endl;
     
     while(cap.isOpened())
     {
