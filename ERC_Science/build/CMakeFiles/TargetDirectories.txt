@@ -1,0 +1,3 @@
+/home/baran/Dev/ERC_Science/build/CMakeFiles/rebuild_cache.dir
+/home/baran/Dev/ERC_Science/build/CMakeFiles/Main.dir
+/home/baran/Dev/ERC_Science/build/CMakeFiles/edit_cache.dir

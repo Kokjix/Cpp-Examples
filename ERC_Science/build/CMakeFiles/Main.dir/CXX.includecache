@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/baran/Dev/ERC_Science/src/Main.cpp
+iostream
+-
+opencv2/opencv.hpp
+-
+SobelandDisplay.hpp
+/home/baran/Dev/ERC_Science/src/SobelandDisplay.hpp
+
+/home/baran/Dev/ERC_Science/src/SobelandDisplay.hpp
+iostream
+-
+opencv2/opencv.hpp
+-
+
