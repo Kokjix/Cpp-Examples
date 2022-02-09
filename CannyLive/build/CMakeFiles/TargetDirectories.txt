@@ -1,3 +1,0 @@
-/home/baran/Dev/CannyLive/build/CMakeFiles/rebuild_cache.dir
-/home/baran/Dev/CannyLive/build/CMakeFiles/Main.dir
-/home/baran/Dev/CannyLive/build/CMakeFiles/edit_cache.dir
