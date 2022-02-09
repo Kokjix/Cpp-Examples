@@ -1,3 +1,0 @@
-/home/baran/Dev/Cascade/build/CMakeFiles/rebuild_cache.dir
-/home/baran/Dev/Cascade/build/CMakeFiles/Main.dir
-/home/baran/Dev/Cascade/build/CMakeFiles/edit_cache.dir
